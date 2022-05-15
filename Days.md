@@ -7,4 +7,4 @@ I made a little [band name generator](https://replit.com/@bbyrobot/band-name-gen
 
 Since I might be at a more intermediate level I may do more complex projects sooner. 
 We shall see. 
-link to 
+
