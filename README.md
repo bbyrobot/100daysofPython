@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# 100 Days of Code - by bbyrobot
+I'm following along with [100 Days of Code: The Complete Python Pro Bootcamp for 2022 with Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/?referralCode=00555B4B1F6FC1A84FBC) on Udemy
 
-You can use the [editor on GitHub](https://github.com/bbyrobot/100daysofPython/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Day 1 - May 14th, 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made a little [band name generator](https://replit.com/@bbyrobot/band-name-generator-start#main.py)
 
-### Markdown
+Since I might be at a more intermediate level I may do more complex projects sooner. 
+We shall see. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Day 2 - May 15th, 2022
 
-```markdown
-Syntax highlighted code block
+Did some variable type conversion. Learned about the f-string which was a nice little trick I didn't know about before. 
 
-# Header 1
-## Header 2
-### Header 3
+Made a [tip calculator](https://replit.com/@bbyrobot/tip-calculator-end#main.py) for the final project of the day. It was fun.
+I really appreciate these refreshers. It's nice to know that I know what I'm doing. 
 
-- Bulleted
-- List
+### Day 3 - May 17th, 2022
 
-1. Numbered
-2. List
+Started on the 16th 2022.
 
-**Bold** and _Italic_ and `Code` text
+I reviewed if statements today and I'm not even gonna lie I learned a shit ton of new stuff about them.
+I did some nested if statements and multiple if statements which I honestly wasn't even aware was posssible but I'm glad to know now.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbyrobot/100daysofPython/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All of the indents in this [Treasure Island Game](https://replit.com/@bbyrobot/treasure-island-start?v=1#main.py) beat my ASS.
+I was beating my head against the wall trying to get this to get this to run for hours all to realize it was because I forgot to put the parantheses at the end of the lower() method. smh It's always the little things. 
