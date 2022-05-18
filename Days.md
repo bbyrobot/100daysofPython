@@ -15,7 +15,12 @@ Did some variable type conversion. Learned about the f-string which was a nice l
 Made a [tip calculator](https://replit.com/@bbyrobot/tip-calculator-end#main.py) for the final project of the day. It was fun.
 I really appreciate these refreshers. It's nice to know that I know what I'm doing. 
 
-### Day 3 - May 16th, 2022
+### Day 3 - May 17th, 2022
+
+Started on the 16th 2022.
 
 I reviewed if statements today and I'm not even gonna lie I learned a shit ton of new stuff about them.
 I did some nested if statements and multiple if statements which I honestly wasn't even aware was posssible but I'm glad to know now.
+
+All of the indents in this [Treasure Island Game](https://replit.com/@bbyrobot/treasure-island-start?v=1#main.py) beat my ASS.
+I was beating my head against the wall trying to get this to get this to run for hours all to realize it was because I forgot to put the parantheses at the end of the lower() method. smh It's always the little things. 
