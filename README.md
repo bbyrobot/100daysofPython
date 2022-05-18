@@ -1,4 +1,4 @@
-# 100 Days of Code - by bbyrobot
+# Bbyrobot's 100 Days of Code 
 I'm following along with [100 Days of Code: The Complete Python Pro Bootcamp for 2022 with Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/?referralCode=00555B4B1F6FC1A84FBC) on Udemy
 
 ### Day 1 - May 14th, 2022
