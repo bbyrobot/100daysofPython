@@ -24,3 +24,6 @@ I did some nested if statements and multiple if statements which I honestly wasn
 
 All of the indents in this [Treasure Island Game](https://replit.com/@bbyrobot/treasure-island-start?v=1#main.py) beat my ASS.
 I was beating my head against the wall trying to get this to get this to run for hours all to realize it was because I forgot to put the parantheses at the end of the lower() method. smh It's always the little things. 
+
+### Day 4 - May 18th, 2022
+Today was chill. Did some nested lists. Made a [Rock, Paper, Scissors Game](https://replit.com/@bbyrobot/rock-paper-scissors-start#main.py). This one was fun. I love me some RPS =]
