@@ -5,7 +5,7 @@ I'm following along with [100 Days of Code: The Complete Python Pro Bootcamp for
 
 I made a little [band name generator](https://replit.com/@bbyrobot/band-name-generator-start#main.py)
 
-Since I might be at a more intermediate level I may do more complex projects sooner. 
+Since according to Angela's quiz I'm at more of an intermediate level I may do more complex projects sooner. 
 We shall see. 
 
 ### Day 2 - May 15th, 2022
@@ -19,7 +19,7 @@ I really appreciate these refreshers. It's nice to know that I know what I'm doi
 
 Started on the 16th 2022.
 
-I reviewed if statements today and I'm not even gonna lie I learned a shit ton of new stuff about them.
+I reviewed if statements today and I'm not even gonna lie I learned a ton of new stuff about them.
 I did some nested if statements and multiple if statements which I honestly wasn't even aware was posssible but I'm glad to know now.
 
 All of the indents in this [Treasure Island Game](https://replit.com/@bbyrobot/treasure-island-start?v=1#main.py) beat my ASS.
