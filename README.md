@@ -26,4 +26,4 @@ All of the indents in this [Treasure Island Game](https://replit.com/@bbyrobot/t
 I was beating my head against the wall trying to get this to get this to run for hours all to realize it was because I forgot to put the parantheses at the end of the lower() method. smh It's always the little things. 
 
 ### Day 4 - May 18th, 2022
-Today was chill. Did some nested lists. Made a [Rock, Paper, Scissors Game](https://replit.com/@bbyrobot/rock-paper-scissors-start#main.py). This one was fun. I love me some RPS =]
+Today was chill. Did some nested lists. Made a [Rock, Paper, Scissors Game](https://replit.com/@bbyrobot/rock-paper-scissors-start#main.py). This one was fun. I love me some RPS =] This is when I realized that I'll have to strengthen my thinking outside of the box skills so I don't make things more complicated than they need to be by maybe adding more elif statements before realizing you there are maybe one or two statements that I can write to cover everything. Hopefully with more practice I can learn to write more concise code. 
