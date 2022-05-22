@@ -27,3 +27,6 @@ I was beating my head against the wall trying to get this to get this to run for
 
 ### Day 4 - May 18th, 2022
 Today was chill. Did some nested lists. Made a [Rock, Paper, Scissors Game](https://replit.com/@bbyrobot/rock-paper-scissors-start#main.py). This one was fun. I love me some RPS =] This is when I realized that I'll have to strengthen my thinking outside of the box skills so I don't make things more complicated than they need to be by maybe adding more elif statements before realizing you there are maybe one or two statements that I can write to cover everything. Hopefully with more practice I can learn to write more concise code. 
+
+## Day 5 - May 20th, 2022
+Started for loops yesterday and I FINALLY understand them lol. I've been having trouble with for loops since I initially got into coding last year and they were finally explained in a way that clicked for me. Got Fizzbuzz on the FIRST TRY ya'll. I feel like a gotdamn superhero now. lol Final project was a [Password Generator](https://replit.com/@bbyrobot/password-generator-start#main.py) which EVERYONE needs these days so I'm very proud of that. I only had to do some quick googles for the shuffling at it was great!
