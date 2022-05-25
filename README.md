@@ -36,3 +36,6 @@ Started for loops yesterday and I FINALLY understand them lol. I've been having 
 ### Day 6 - May 22nd, 2022
 While loops today. Reeborg and I were getting along JUST fine until that ending maze. That one gave me problems! But it was figured out in the end so that's all that matters. 
 You can see the screenshot of the code [here](https://twitter.com/bbyrobot/status/1528568409402712064)!
+
+Day 7-8 - May 23-24th, 2022
+Put on my big girl pants and did some work with dictionaries yesterday and today. Made an [auction program](https://replit.com/@bbyrobot/blind-auction-start-1). This one took a minute. It's mostly the order of where to put things that gets me.  I'll probably watch the video again to make sure I get this stuff down pat.
